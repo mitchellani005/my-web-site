@@ -1,0 +1,116 @@
+
+header{
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: 10px;
+    background-color: rgb(231, 154, 154);
+    color: rgb(235, 253, 235);
+    
+    }
+    
+    body,main{
+        color: black;
+        font-size: x-large;
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: left;
+    
+    }
+
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        background-color: #f2f2f2;
+    }
+    .contact-form {
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 5px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        width: 100%;
+        max-width: 500px;
+    }
+    .contact-form h2 {
+        margin-bottom: 20px;
+    }
+    .contact-form label {
+        display: block;
+        margin-bottom: 5px;
+        font-weight: bold;
+    }
+    .contact-form input, .contact-form textarea {
+        width: 100%;
+        padding: 10px;
+        margin-bottom: 10px;
+        border: 1px solid #ccc;
+        border-radius: 3px;
+    }
+    .contact-form button {
+        background-color: #4CAF50;
+        color: white;
+        border: none;
+        padding: 10px 20px;
+        text-align: center;
+        font-size: 16px;
+        border-radius: 3px;
+        cursor: pointer;
+    }
+    .contact-form button:hover {
+        background-color: #45a049;
+    }
+    
+    
+    .links{
+     display: flex;
+    justify-content: space-between;
+    }
+    
+    body{
+        color: rgb(51, 48, 45);
+    }
+    
+    h1{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 60px;
+        color: black;
+    
+    }
+    
+    footer{
+        background-color: rgb(156, 173, 173);
+        margin-top: 480px;
+        padding: 80px;
+        size: 100px;
+    }
+    
+    img{
+        display: grid;
+        size: 50px;
+    }
+    
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        size: 100px;
+        
+    }
+    table, th, td {
+        border: 1px;
+    }
+    th, td {
+        padding: 2px;
+        text-align: center;
+    }
+    th {
+        background-color:rgb(156, 173, 173);
+    }
+    tr:nth-child(even) {
+        background-color:rgb(156, 173, 173);
+    }
+    
+   
